@@ -1,2 +1,2 @@
-# Data-Visualization-week-2
-Programming Assignment 1
+# Data-Visualization-for projet future ready talent
+Programming projet
